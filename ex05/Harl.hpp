@@ -6,7 +6,7 @@
 /*   By: linyao <linyao@student.42barcelona.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/08 22:11:15 by linyao            #+#    #+#             */
-/*   Updated: 2024/11/08 23:12:20 by linyao           ###   ########.fr       */
+/*   Updated: 2024/11/09 11:19:33 by linyao           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 # define GREEN "\001\033[1;32m\002"
 
 #include <iostream>
+#include <cstdlib>
 
 class Harl {
   private:
